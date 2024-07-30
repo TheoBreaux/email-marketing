@@ -1,0 +1,46 @@
+.logo-container {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100px;
+}
+
+.logo {
+  color: #00c6ff;
+  font-size: 35px;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  border: 1px solid #00c6ff;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 0 0 10px 0;
+  width: 50px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+}
+
+.html-page-image {
+  width: 150%;
+  height: auto;
+}
+
+.btn {
+  padding: 15px;
+  border-radius: 10px;
+  background-color: #0072ff;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  color: white;
+  border: none;
+  margin: 15px;
+  cursor: pointer;
+}

@@ -1,0 +1,24 @@
+.cta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cta-text {
+  font-size: 30px;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+}
+
+.cta-btn {
+  border-radius: 10px;
+  background-color: #0072ff;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  color: white;
+  border: none;
+  width: 150px;
+  height: 50px;
+  margin: 15px;
+  cursor: pointer;
+}
